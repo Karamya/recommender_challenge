@@ -1,6 +1,6 @@
 # Recommender Challenge
 
-———————————————————————————————————————
+
 
 The data contains information about the user and his/her purchase history of certain products and the time of purchase. The aim is to create a recommender system that recommends 5 new products that a given customer has not yet purchased. 
 
@@ -8,7 +8,7 @@ The data contains information about the user and his/her purchase history of cer
 
 ## Requirements:
 
-———————————————————————————————————————
+
 
 Python 3.6.0
 Pandas 0.19.0
@@ -18,7 +18,7 @@ PySpark 2.0.0
 
 ## Challenges
 
-———————————————————————————————————————
+
 
 - Provide good user experience to every user
 - Satisfy the business objectives
@@ -30,7 +30,7 @@ PySpark 2.0.0
 
 ## Types of Recommenders
 
-———————————————————————————————————————
+
 
 - Content based
     - using explicit features of the users and/or items
@@ -41,7 +41,7 @@ PySpark 2.0.0
 
 ## Alternating Least Square(ALS) - Method of Choice
 
-———————————————————————————————————————
+
 
 There are many techniques for generating recommendations, such as
 - Matrix factorization
