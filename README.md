@@ -10,9 +10,12 @@ The data contains information about the user and his/her purchase history of cer
 
 
 
-Python 3.6.0
+Python 3.5.2 
+
 Pandas 0.19.0
+
 NumPy 1.12.1
+
 PySpark 2.0.0
 
 
